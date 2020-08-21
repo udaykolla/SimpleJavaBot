@@ -1,2 +1,2 @@
 # JetBrainsAcademyJava
-My Java projects through the JetBrains Academy Program.
+A java project through the JetBrains Academy Program.
